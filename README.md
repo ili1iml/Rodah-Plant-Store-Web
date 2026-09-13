@@ -14,11 +14,6 @@
 
 ---
 
-## 📸 Preview
-
-> *(Add a screenshot here)*
-
----
 
 ## 💡 About
 
